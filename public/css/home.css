@@ -1,0 +1,13 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.img-jmbo{
+    background-image: url('../assets/mainback.jpg');
+    background-size: 100%, 100%;
+}
+
+.text{
+    background: rgba(44, 44, 44, 0.5);
+    padding: 50px;
+}
